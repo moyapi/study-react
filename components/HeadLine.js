@@ -1,6 +1,6 @@
 import styles from '../styles/Home.module.css'
 
-export default function HeadLine(props) {
+export function HeadLine(props) {
     console.log(props);
   return (
     <div>
