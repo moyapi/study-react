@@ -1,4 +1,4 @@
-import classes from './HeadLine.module.css'
+import classes from 'src/components/HeaderLine/HeadLine.module.css'
 
 export function HeadLine(props) {
     return (
